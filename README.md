@@ -4,4 +4,4 @@ My name is Eze Nzube Goodness( Xrole Diamond ) from Lagos Nigeria. I am techie a
 
 I am a beneficiary of Google Africa scholarship 2018, with over three years of experience and still counting in Software Engineering. I've worked with companies like NESA by Makers, Local shelf, Andela and others. Currently, I work with ChurchPad as assistant Team Lead (Cross platform mobile app with Flutter) and mentor in Andela Learning Community.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?xrole=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrole)](https://github.com/anuraghazra/github-readme-stats)
