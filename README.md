@@ -1,3 +1,6 @@
+<img width="580" alt="Screenshot 2021-09-22 at 4 16 15 AM" src="https://user-images.githubusercontent.com/32772323/134279354-e2dbe2a1-355f-4d66-bd57-2660be0617f4.png">
+
+
 ### Hi there 👋
 
 My name is Eze Nzube Goodness( Xrole Diamond ) from Lagos Nigeria. I am techie and passionate about problem solving. A typical day for me, is a day spent in coding and learning of newer technologies. At the very basic, seeking, acquiring and exhibiting knowledge has been my culture right from birth. When I am not coding, I love to be with family, friends, loved ones or engage in activities like playing table tennis and perhaps skating.
